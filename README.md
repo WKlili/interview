@@ -15,7 +15,6 @@
 - 在第一个链接的工程里开发
 - 访问 http://localhost:8080/#/tableList 可看到表格页
 - 接口
-
  http://47.99.180.157:3001/users/:name  get 获取用户信息 name为空则获取所有用户 eg: http://47.99.180.157:3001/users/test1
 
  http://47.99.180.157:3001/user         put 添加用户信息  入参 eg: {id: number, name: '',role: '0' , enable: Boolean}
