@@ -14,6 +14,10 @@
 
 - 在第一个链接的工程里开发
 - 访问 http://localhost:8080/#/tableList 可看到表格页
+- http://47.99.180.157:3001/users/:name  get 获取用户信息 name为空则获取所有用户 eg: http://47.99.180.157:3001/users/test1 。
+- http://47.99.180.157:3001/user         put 添加用户信息  入参 eg: {id: number, name: '',role: '0' , enable: Boolean}
+- http://47.99.180.157:3001/user         delete 删除用户(包括批量删除) eg: {_id: ['','']}
+- http://47.99.180.157:3001/user         post 修改用户信息 eg: {id: number, name: '',role: '0' , enable: Boolean}
 - 三天内完成
 
 如果完成，则经过初步筛选，可以发送内容到下面的邮件，**领取面试资格**
