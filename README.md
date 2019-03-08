@@ -1,6 +1,6 @@
 ## 初试题目
 
-根据以下三个链接：
+根据以下链接：
 
 - https://github.com/WKlili/ant-design-template-deepex
 
