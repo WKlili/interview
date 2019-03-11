@@ -2,7 +2,7 @@
 
 根据以下链接：
 
-- https://github.com/WKlili/ant-design-template-deepex
+- https://github.com/WKlili/ant-design-template-deepexi
 
 做如下图所示的页面
 
